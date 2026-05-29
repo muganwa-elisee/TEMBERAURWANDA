@@ -2,13 +2,13 @@ import Home from '@/views/Home.vue'
 import About from '@/views/About.vue'
 import Services from '@/views/Services.vue'
 import Contact from '@/views/Contact.vue'
-import east from '@/views/East.vue'
+import east from '@/views/east.vue'
 import west from '@/views/West.vue'
 import north from '@/views/North.vue'
 import south from '@/views/South.vue'
 import kigali from '@/views/Kigali.vue'
-import images from '@/views/images.vue'
-import videos from '@/views/videos.vue'
+import images from '@/views/Images.vue'
+import videos from '@/views/Videos.vue'
 
 export const routes = [
   { path: '/', name: 'Home', component: Home },
